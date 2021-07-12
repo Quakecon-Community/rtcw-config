@@ -21,5 +21,5 @@ or which ever is specified in the `SETTINGSURL` variable.
 
 ## Changes
 
-Changes to this repository must be approved by the European RTCW gather
+Changes to this repository must be approved by the QuakeCon Tournament
 administrators.
